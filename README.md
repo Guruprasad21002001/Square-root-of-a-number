@@ -28,7 +28,7 @@ def fun():
         x=0.5*(x+b/x)
     print("Square root of the number:",x)
 fun()
-
+```
 ## Output:
 ![](./g2.png)
 
